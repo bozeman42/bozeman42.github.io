@@ -1,7 +1,7 @@
 
 
 body {
-    font-family: 'Oswald',sans-serif;
+    font-family: 'Lato',sans-serif;
 }
 
 .container {
@@ -11,27 +11,37 @@ body {
 
 .address-block {
     float: right;
+    text-align: right;
 }
 
 hr {
     clear: both;
+    border-color: #777;
+    border-width:thin;
+    margin-left: -15px;
 }
 
 h1 {
     margin-top: auto;
+    font
 }
 .sub-content {
     float: right;
-    width: 75%;
+    width: 70%;
 }
 
 .section-item {
     float: left;
-    width: 25%;
+    width: 30%;
+}
+
+.institution-title h3 {
+    font-weight: 700;
 }
 
 .section-item h3 {
     font-size: 120%;
+    font-weight:700;
 }
 
 .section-item p {
@@ -54,5 +64,5 @@ h1 {
 }
 
 .section-title h2 {
-    font-size: 
+    font-weight: 900;
 }
