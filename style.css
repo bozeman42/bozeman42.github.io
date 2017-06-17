@@ -1,10 +1,15 @@
 
+
 body {
-    font-family: Lato,sans-serif;
+    font-family: 'Oswald',sans-serif;
+}
+
+.container {
+    width: 800px;
+    margin: auto;
 }
 
 .address-block {
-    display: block;
     float: right;
 }
 
@@ -27,4 +32,25 @@ h1 {
 
 .position-title p {
     font-style: italic;
+}
+
+
+
+.section-title {
+    display: block;
+    float: left;
+}
+
+
+
+#firstSection {
+    margin-top: 60px;
+}
+
+.section-title h2 {
+    font-size: 
+}
+
+.company-title {
+    font-weight: 10000;
 }
