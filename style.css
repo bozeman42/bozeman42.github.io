@@ -30,8 +30,13 @@ h1 {
     width: 25%;
 }
 
+.position-title h3 {
+    font-size: 120%;
+}
+
 .position-title p {
     font-style: italic;
+    font-size: 85%;
 }
 
 
@@ -49,8 +54,4 @@ h1 {
 
 .section-title h2 {
     font-size: 
-}
-
-.company-title {
-    font-weight: 10000;
 }
