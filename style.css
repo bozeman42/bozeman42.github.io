@@ -25,16 +25,16 @@ h1 {
     width: 75%;
 }
 
-.position-title {
+.section-item {
     float: left;
     width: 25%;
 }
 
-.position-title h3 {
+.section-item h3 {
     font-size: 120%;
 }
 
-.position-title p {
+.section-item p {
     font-style: italic;
     font-size: 85%;
 }
@@ -44,6 +44,7 @@ h1 {
 .section-title {
     display: block;
     float: left;
+    margin-top: 25px;
 }
 
 
