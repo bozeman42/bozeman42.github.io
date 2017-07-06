@@ -145,3 +145,9 @@ h1 {
   color: white;
   background-color: #0077B5;
 }
+
+.footer {
+    height: 70px;
+    padding: 10px;
+    text-align: center;
+}
